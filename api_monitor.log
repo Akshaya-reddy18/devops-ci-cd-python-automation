@@ -1,0 +1,22 @@
+2026-03-13 12:15:07,569 - INFO - Starting API Monitoring Service...
+2026-03-13 12:15:07,569 - INFO - Target: http://localhost:5000/health | Interval: 60s
+2026-03-13 12:15:07,569 - INFO - Checking health at http://localhost:5000/health
+2026-03-13 12:15:11,662 - ERROR - ALERT: Failed to connect to http://localhost:5000/health. Is the service running?
+2026-03-13 12:15:11,663 - WARNING - No ALERT_EMAIL set. Skipping email alert.
+2026-03-13 12:16:11,664 - INFO - Checking health at http://localhost:5000/health
+2026-03-13 12:16:15,740 - ERROR - ALERT: Failed to connect to http://localhost:5000/health. Is the service running?
+2026-03-13 12:16:15,740 - WARNING - No ALERT_EMAIL set. Skipping email alert.
+2026-03-13 12:36:27,935 - INFO - Starting API Monitoring Service...
+2026-03-13 12:36:27,938 - INFO - Target: http://localhost:5000/health | Interval: 60s
+2026-03-13 12:36:27,938 - INFO - Checking health at http://localhost:5000/health
+2026-03-13 12:36:29,954 - INFO - Health Check Passed. Service is healthy.
+2026-03-13 12:37:29,955 - INFO - Checking health at http://localhost:5000/health
+2026-03-13 12:37:32,026 - INFO - Health Check Passed. Service is healthy.
+2026-03-16 10:44:36,710 - INFO - Starting API Monitoring Service...
+2026-03-16 10:44:36,711 - INFO - Target: http://localhost:5000/health | Interval: 60s
+2026-03-16 10:44:36,711 - INFO - Checking health at http://localhost:5000/health
+2026-03-16 10:44:38,767 - INFO - Health Check Passed. Service is healthy.
+2026-03-16 10:45:38,768 - INFO - Checking health at http://localhost:5000/health
+2026-03-16 10:45:38,807 - INFO - Health Check Passed. Service is healthy.
+2026-03-16 10:46:38,808 - INFO - Checking health at http://localhost:5000/health
+2026-03-16 10:46:38,824 - INFO - Health Check Passed. Service is healthy.
